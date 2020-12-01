@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="guanzichen@10.8.4.170:22" createEmptyFolders="true" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="guanzichen@10.8.4.170:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/guanzichen/temp2/HGR" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lab">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/guanzichen/pythonCode" local="$PROJECT_DIR$" web="/guanzichen@10.8.4.170" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

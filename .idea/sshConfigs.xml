@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="10.8.4.170" id="896e7258-00f8-40b9-a40c-8ce1f78f63cc" port="22" customName="guanzi" nameFormat="CUSTOM" username="guanzichen">
+        <option name="customName" value="guanzi" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" id="808a524b-d054-47a2-aeb5-22fc1c95fee3" customName="lab" nameFormat="CUSTOM">
+        <option name="customName" value="lab" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+--method CE --nb_epochs 100 --batch_size 32 --lr 0.001 --dataset image
+
+--method Hscore --nb_epochs 100 --batch_size 32 --lr 0.001 --dataset image
+--method CE --nb_epochs 100 --batch_size 32 --lr 0.001 --dataset mnist
+--method Hscore --nb_epochs 100 --batch_size 32 --lr 0.001 --dataset mnist
